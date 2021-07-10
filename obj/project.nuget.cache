@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ctc0BLjRA5Tvka9B5l8LLXfcuCOTFMDKVRqzxgoP+lXCkyWUxOsvq6fAVDRdTRZO/iNRC1xKKwkoa3qRnuj0kA==",
+  "success": true,
+  "projectFilePath": "E:\\Trainings\\LibrarySolution.App\\LibrarySolution.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anamika\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Anamika\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
